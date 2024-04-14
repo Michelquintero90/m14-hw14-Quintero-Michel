@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c2679c;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn:hover {
+    background-color: #87b8ed;
+    border-color: #03172d;
+  }
+  
